@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditya03kumar
-- 👀 I’m interested in web dev
+- 👀 I’m interested in app and web dev
 
 
 <!---
